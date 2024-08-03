@@ -36,15 +36,15 @@ Open the [Detecting-Mine-or-Rock-Sonar-K-Nearest-Neighbors.ipynb](https://github
   * Handle missing values and outliers.
   * Normalize and scale the sonar data for model compatibility.
 * Exploratory Data Analysis (EDA):
-- Visualize the distribution of sonar signals.
-- Analyze the relationships between features and the target variable (mine or rock).
+  * Visualize the distribution of sonar signals.
+  * Analyze the relationships between features and the target variable (mine or rock).
 * Feature Selection: Identify and select the most relevant features for modeling.
 * Modeling:
-- Implement various classification models, with a focus on K-Nearest Neighbors (KNN).
-- Train models on the processed sonar dataset.
+  * Implement various classification models, with a focus on K-Nearest Neighbors (KNN).
+  * Train models on the processed sonar dataset.
 * Model Evaluation:
-- Evaluate model performance using metrics like accuracy, precision, recall, and F1-score.
-- Compare different models and select the best-performing one.
+  * Evaluate model performance using metrics like accuracy, precision, recall, and F1-score.
+  * Compare different models and select the best-performing one.
 
 # Results
 The final model provides accurate predictions for detecting mines or rocks from sonar data, which can be beneficial for safety in military operations and geological assessments.
