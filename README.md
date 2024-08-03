@@ -33,7 +33,7 @@ Open the [Detecting-Mine-or-Rock-Sonar-K-Nearest-Neighbors.ipynb](https://github
 
 # Project Workflow
 * Data Preprocessing:
-- Handle missing values and outliers.
+* - Handle missing values and outliers.
 - Normalize and scale the sonar data for model compatibility.
 * Exploratory Data Analysis (EDA):
 - Visualize the distribution of sonar signals.
